@@ -17,3 +17,4 @@ NOT SPACES!
 
 To see the highlighting take effect you may need to exit the IDE and re-open it.
 
+![](MyKeywords.png)
