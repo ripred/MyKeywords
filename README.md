@@ -18,3 +18,25 @@ NOT SPACES!
 To see the highlighting take effect you may need to exit the IDE and re-open it.
 
 ![](MyKeywords.png)
+```
+########################################################
+# Syntax Coloring Map for Local Arduino Sketches
+########################################################
+# Datatypes (KEYWORD1)
+########################################################
+Fred	KEYWORD1
+Wilma	KEYWORD1
+Barney	KEYWORD1
+
+########################################################
+# Methods, Functions, and Globals (KEYWORD2)
+########################################################
+pebbles	KEYWORD2
+bambam	KEYWORD2
+
+########################################################
+# Constants (LITERAL1)
+########################################################
+Betty	LITERAL1
+Dino	LITERAL1
+```
