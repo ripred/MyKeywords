@@ -22,8 +22,6 @@ keyword and the keyword type (KEYWORD1, KEYWORD2, or LITERAL1)
 NOT SPACES!
 
 To see the highlighting take effect you may need to exit the IDE and re-open it.
-
-![](MyKeywords.png)
 ```
 ########################################################
 # Syntax Coloring Map for Local Arduino Sketches
@@ -46,3 +44,4 @@ bambam	KEYWORD2
 Betty	LITERAL1
 Dino	LITERAL1
 ```
+![](MyKeywords.png)
