@@ -1,3 +1,9 @@
+[![Arduino CI](https://github.com/ripred/MyKeywords/workflows/Arduino%20CI/badge.svg)](https://github.com/marketplace/actions/arduino_ci)
+[![Arduino-lint](https://github.com/ripred/MyKeywords/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/ripred/MyKeywords/actions/workflows/arduino-lint.yml)
+![code size:](https://img.shields.io/github/languages/code-size/ripred/MyKeywords)
+[![GitHub release](https://img.shields.io/github/release/ripred/MyKeywords.svg?maxAge=3600)](https://github.com/ripred/MyKeywords/releases)
+[![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/ripred/MyKeywords/blob/master/LICENSE)
+
 
 # MyKeywords Arduino Library
 
