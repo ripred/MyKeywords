@@ -4,6 +4,11 @@
 [![License: MIT](https://flat.badgen.net/github/license/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/blob/main/LICENSE)
 
 
+[![JSON check](https://github.com/ripred/MyKeywords/actions/workflows/jsoncheck.yml/badge.svg)](https://github.com/ripred/MyKeywords/actions/workflows/jsoncheck.yml)
+[![Arduino Library Manager](https://www.ardu-badge.com/badge/MyKeywords.svg)](https://www.ardu-badge.com/MyKeywords)
+[![Stars](https://flat.badgen.net/github/stars/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/stargazers)
+[![Forks](https://flat.badgen.net/github/forks/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/network/members)
+
 # MyKeywords Arduino Library
 
 Add your own color highlighted keywords to the Arduino IDE!
