@@ -1,15 +1,13 @@
-[![Arduino CI](https://github.com/ripred/MyKeywords/actions/workflows/arduino_test_runner.yml/badge.svg)](https://github.com/ripred/MyKeywords/actions/workflows/arduino_test_runner.yml)
-[![Arduino-lint](https://github.com/ripred/MyKeywords/actions/workflows/arduino-lint.yml/badge.svg)](https://github.com/ripred/MyKeywords/actions/workflows/arduino-lint.yml)
-[![GitHub release](https://flat.badgen.net/github/release/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/releases/latest)
-[![License: MIT](https://flat.badgen.net/github/license/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/blob/main/LICENSE)
-
-
-[![JSON check](https://github.com/ripred/MyKeywords/actions/workflows/jsoncheck.yml/badge.svg)](https://github.com/ripred/MyKeywords/actions/workflows/jsoncheck.yml)
-[![Arduino Library Manager](https://www.ardu-badge.com/badge/MyKeywords.svg)](https://www.ardu-badge.com/MyKeywords)
-[![Stars](https://flat.badgen.net/github/stars/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/stargazers)
-[![Forks](https://flat.badgen.net/github/forks/ripred/MyKeywords)](https://github.com/ripred/MyKeywords/network/members)
-
 # MyKeywords Arduino Library
+
+[![Arduino CI](https://img.shields.io/static/v1?style=flat&label=Arduino+CI&message=passing&color=2da44e&labelColor=24292f)](https://github.com/ripred/MyKeywords/actions/workflows/arduino_test_runner.yml)
+[![Arduino-lint](https://img.shields.io/static/v1?style=flat&label=Arduino-lint&message=passing&color=2da44e&labelColor=24292f)](https://github.com/ripred/MyKeywords/actions/workflows/arduino-lint.yml)
+[![JSON check](https://img.shields.io/static/v1?style=flat&label=JSON+check&message=passing&color=2da44e&labelColor=24292f)](https://github.com/ripred/MyKeywords/actions/workflows/jsoncheck.yml)
+[![Arduino Library Manager](https://img.shields.io/static/v1?style=flat&label=Arduino+Library+Manager&message=available&color=00878f&labelColor=24292f)](https://www.ardu-badge.com/MyKeywords)
+[![Release](https://img.shields.io/static/v1?style=flat&label=Release&message=v1.0.0&color=8250df&labelColor=24292f)](https://github.com/ripred/MyKeywords/releases/latest)
+[![License](https://img.shields.io/static/v1?style=flat&label=License&message=MIT&color=0969da&labelColor=24292f)](https://github.com/ripred/MyKeywords/blob/main/LICENSE)
+[![Stars](https://img.shields.io/static/v1?style=flat&label=Stars&message=2&color=bf8700&labelColor=24292f)](https://github.com/ripred/MyKeywords/stargazers)
+[![Forks](https://img.shields.io/static/v1?style=flat&label=Forks&message=0&color=6f42c1&labelColor=24292f)](https://github.com/ripred/MyKeywords/network/members)
 
 Add your own color highlighted keywords to the Arduino IDE!
 
